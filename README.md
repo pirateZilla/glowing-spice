@@ -1,2 +1,2 @@
 # glowing-spice
-# This software is a "Hello, World" program.
+This is for learndeding.
